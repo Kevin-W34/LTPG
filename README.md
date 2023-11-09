@@ -4,6 +4,7 @@ Large-batch transaction processing on GPUs with deterministic concurrency contro
 Regarding the GaccO code, we have contacted the authors and obtained the source code from them. 
 The experimental evaluation in our paper is conducted using the obtained codes. 
 However, they asked not to publicly disclose their source code, so we have retained our reproduced version for reference in the repository. 
+
 As for the GPUTx code, since the source code is not available, we have provided our reproduced version.
 
 # Discription of files in the project
