@@ -7,7 +7,7 @@ However, they requested that we do not publicly disclose their source code, so w
 
 As for the GPUTx code, since the source code is not available, we have provided our reproduced version.
 
-# discription of files in the project
+# Discription of files in the project
 
 "Random.h" is used to generate random numbers.
 
