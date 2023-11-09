@@ -13,7 +13,7 @@ As for the GPUTx code, since the source code is not available, we have provided 
 
 "Database.h" is used to generate the database. We set up copying the databasenfrom the CPU to GPU in this file.
 
-"Genericfunction.h" is used to set up general function, such as timekeeping function, execution function, checking function and write-back function.
+"Genericfunction.h" is used to set up general function, such as timekeeping function, execution function, checking conflicts function and write-back function.
 
 "Execute_neworder.h" is used to implement specific functions in neworder transactions.
 
